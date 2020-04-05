@@ -80,12 +80,6 @@ class Tarification:
 tarif=Tarification()
 tarif.tarification()
 
-    #return bill_for_income_calls,bill_for_out_calls,bill_for_sms,total
 
 
-#def_bill_for_income_calls,def_bill_for_out_calls,def_bill_for_sms,def_total = tarification(2,20,0,2)
-#print("Bill for incoming calls: ", def_bill_for_income_calls)
-#print("Bill for outcoming calls: ", def_bill_for_out_calls)
-#print("Bill for SMS: ", def_bill_for_sms)
-#print('')
-#print('TOTAL: ', def_total)
+
